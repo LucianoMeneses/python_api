@@ -1,6 +1,5 @@
 # Python API
 
-
 Exemplo de API Rest com Python
 
 ## Para executar localmente
